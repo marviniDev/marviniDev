@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 I'm a programming student with a focus on web and mobile development and I always try my best every day
 
-• Currently working on **HTML, CSS, JS, PHP and MYSQL**;
-<br/>• Learning more about **Node.JS, ReactJS, React Native** web & mobile development technologies;
+• Currently working on **HTML, CSS, JS, PHP, ReactJS(HOOKS), Node.JS, Express, Sequelize, Postgres, MYSQL and Express**;
+<br/>• Learning more about **Docker, React Native, Flutter, Angular, Java, SpringBoot** web & mobile development technologies;
 
 [![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Vinícius-28e069?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marvinicius/)](https://www.linkedin.com/in/marvinicius/) [![Gmail Badge](https://img.shields.io/badge/-vinicius.uchoa2002@gmail.com-28e069?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.uchoa2002@gmail.com)](mailto:vinicius.uchoa2002@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-ohumarvini-28e069?style=flat-square&labelColor=28e069&logo=Instagram&logoColor=white&link=https://www.instagram.com/ohumarvini/)](https://www.instagram.com/ohumarvini/)
